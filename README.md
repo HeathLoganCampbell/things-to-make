@@ -7,6 +7,12 @@
 ### Mario kart on the browser using joycons
 You can connect your joycons to the computer and play some games. the game doesn't really matter to much it's just a cool feeling to do instead of being cramed in both controlling on a keyboard.
 
+### Note pad
+a notepad clone because why not
+
+### JSON browser
+easily view json content
+
 ### A Club penguin clone
 A game which runs like club penguin which allows you to
 * chat with others
